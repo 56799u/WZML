@@ -47,14 +47,12 @@
         "value": ""
 
       },
+        
+      "OWNER_ID": {
 
-      "BOT_PASSWORD": {
+        "description": "your id",
 
-        "description": "enter pasword or leave it public",
-
-        "value": "",
-
-        "required" : false
+        "value": ""
 
       }
 
